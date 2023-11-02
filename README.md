@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Daniyal-Chaudhrxy
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Bachelors In Computer Sciences(BSCS)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : Using my email
+- 👀 I’m interested in Web Development and Databases.
+- 🌱 Bachelor In Computer Sciences(BSCS)
+- 📫 How to reach me : daniyal.chaudhry2121@gmail.com
 
 <!---
 Daniyal-Chaudhrxy/Daniyal-Chaudhrxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
